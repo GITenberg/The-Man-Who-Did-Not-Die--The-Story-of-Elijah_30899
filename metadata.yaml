@@ -1,0 +1,27 @@
+_repo: The-Man-Who-Did-Not-Die--The-Story-of-Elijah_30899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willard, J. H. (James Hartwell)
+    alias: Willard, James Hartwell
+    birthdate: 1847
+    gutenberg_agent_id: '5611'
+    url: http://www.gutenberg.org/2009/agents/5611
+description: ''
+gutenberg_issued: '2010-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Juvenile literature'
+- !lcsh 'Elijah -- (Biblical prophet) -- Juvenile literature'
+title: 'The Man Who Did Not Die: The Story of Elijah'
+url: http://www.gutenberg.org/ebooks/30899
